@@ -1,0 +1,13 @@
+name: polymer_contacts
+description: A sample Polymer application
+dependencies:
+    polymer: any
+transformers:
+- polymer:
+    entry_points: web/polymer_contacts.html
+
+
+version: 0.0.1
+author: Evèssèhou Moïse Dovonou <dovonoumoise@yahoo.fr>
+description: Simple application web pour la gestion des contacts
+

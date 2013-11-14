@@ -1,0 +1,83 @@
+<polymer-element name="t-contacts">
+  <template>
+    <style>
+      .button {
+        padding: 1px;
+        background: #ffcc99;
+        border-right: 1px solid #999;
+        border-bottom: 1px solid #999;
+        border-style: outset;
+        border-color: #d7b9c9;
+        font-weight: bold;
+        text-align: center;
+      }
+      label {
+         color: blue
+      }
+      
+      table {
+        border-radius: 10px;
+      }
+      
+      td{
+        width:400px;
+        text-align: center;
+      }
+      
+      tr {
+        background:silver;
+      }
+      
+      th{
+        color: white;
+        background:black;
+      }
+      
+      fieldset{
+              opacity: 1
+              }
+    legend{
+          color:red
+    }          
+    </style>
+    
+    <fieldset> 
+    <img src ="css/img/Pl.jpg"/>
+          <legend>Ajout/Suppression de contact</legend> 
+       <div> 
+    <form>
+      <label for="name">Nom prenom</label>
+      <input id="name" type="text" required/>
+      <label for="tel">tel</label>
+      <input id="tel" type="text" />
+      <label for="e_mail">e_mail</label>
+      <input id="e_mail" type="text" />
+      <label for="description">Description</label>
+      <input id="description" type="text" />
+      <br/>
+      <button on-click="{{add}}" class="button">Ajouter</button>
+      <button on-click="{{delete}}" class="button">Supprimer</button>
+      <label id="message"></label>
+    </form>
+       </div> 
+     </fieldset> 
+    <br/>
+   
+    <table>
+        <tr>
+            <th> Nom et prenom </th>
+            <th> Telephone </th>
+            <th> Courriel </th>
+            <th> Description </th>
+        </tr>
+      <template repeat="{{contact in contacts.internalList}}">
+        
+           <tr>
+            <td> {{contact.name}}</td>  <td>{{contact.tel}}</td>  <td>{{contact.e_mail}}</td>  <td>{{contact.description}}</td>
+           </tr>
+        
+      </template>
+    </table>
+  </template>
+  <script type="application/dart" src="contact.dart"></script>
+</polymer-element>
