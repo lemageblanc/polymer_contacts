@@ -55,7 +55,7 @@
       <label for="description">Description</label>
       <input id="description" type="text" />
       <br/>
-      <button on-click="{{add}}" class="button">Ajouter</button>
+      <button on-click="{{add}}" class="button">{{ajout}}</button>
       <button on-click="{{delete}}" class="button">Supprimer</button>
       <label id="message"></label>
     </form>
@@ -69,11 +69,15 @@
             <th> Telephone </th>
             <th> Courriel </th>
             <th> Description </th>
+            <th> Modifier </th>
+            <th> Supprimer </th>
         </tr>
       <template repeat="{{contact in contacts.internalList}}">
         
            <tr>
-            <td> {{contact.name}}</td>  <td>{{contact.tel}}</td>  <td>{{contact.e_mail}}</td>  <td>{{contact.description}}</td>
+            <td> {{contact.name}}</td>  <td>{{contact.tel}}</td>  <td>{{contact.e_mail}}</td>  <td>{{contact.description}}</td>  
+                      <td class="modif"> <button on-click="{{modif}}" id="{{contact.name}}" title="{{contact.name}}" >Modifier</button>  </td>
+                      <td class="supprim"> <button on-click="{{supprim}}"  id="{{contact.name}}" title="{{contact.name}}">Supprimer</button> </td>
            </tr>
         
       </template>

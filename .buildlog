@@ -4431,3 +4431,483 @@ warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
       ^^^^^^^^^^^
 build.dart finished [4091 ms]
 
+---
+build.dart --machine --full
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [2728 ms]
+
+---
+build.dart --machine --full
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [3250 ms]
+
+---
+build.dart --machine --full
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [4697 ms]
+
+---
+build.dart --machine --changed=web\contact.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [4301 ms]
+
+---
+build.dart --machine --changed=web\contact.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [3715 ms]
+
+---
+build.dart --machine --changed=web\contact.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:73:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:79:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [3499 ms]
+
+---
+build.dart --machine --changed=web\contact.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:81:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:81:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:81:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:81:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:81:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:81:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [3037 ms]
+
+---
+build.dart --machine --changed=web\contact.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:81:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:81:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:81:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:81:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:81:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:81:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [2941 ms]
+
+---
+build.dart --machine --changed=web\contact.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [4292 ms]
+
+---
+build.dart --machine --changed=web\contact.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [4037 ms]
+
+---
+build.dart --machine --changed=web\contact.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [3463 ms]
+
+---
+build.dart --machine --changed=web\contact.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [3212 ms]
+
+---
+build.dart --machine --changed=web\contact.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [3216 ms]
+
+---
+build.dart --machine --changed=web\contact.html
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [2909 ms]
+
+---
+build.dart --machine --changed=web\contact.dart
+warning: now that main takes arguments, you need to explicitly pass options to build(). Running as if no options were passed.
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:75:7: Unexpected start tag (template) in table context caused voodoo mode.
+      <template repeat="{{contact in contacts.internalList}}">
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template) in table context caused voodoo mode.
+      </template>
+      ^^^^^^^^^^^
+warning web/contact.html:83:7: Unexpected end tag (template). Ignored.
+      </template>
+      ^^^^^^^^^^^
+build.dart finished [3774 ms]
+
